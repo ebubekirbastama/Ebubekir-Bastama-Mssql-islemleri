@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>EbubekirBastama.SQlİslemleri</id>
+    <version>1.0.0.0</version>
+    <title>EbubekirBastama SQl İşlemleri(İnsert,Update,Delete,DataTable,Dataset,SqlDataReader)</title>
+    <authors>SQl İşlemleri</authors>
+    <owners>SQl İşlemleri</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/ebubekirbastama/EbubekirBastama_Html_Builder/blob/master/README.md</licenseUrl>
+    <projectUrl>https://github.com/ebubekirbastama/EbubekirBastama_Html_Builder</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/ebubekirbastama/EbubekirBastama_Html_Builder/master/bekrahtml.png</iconUrl>
+    <description>SQl İşlemleri - Ebubekir Bastama</description>
+    <copyright>Copyright 2020 Ebubekir Bastama</copyright>
+    <tags>SQl İşlemleri</tags>
+  </metadata>
+   <files>
+     <file src="EbubekirbastamaMssqlİslemleri.dll" target="lib\EbubekirbastamaMssqlİslemleri.dll"></file>
+  </files>
+</package>
