@@ -7,11 +7,11 @@ Mssql ile ilgili veri tabanı işlemlerini bu dll ile yapabilirsiniz.
     Bu projeyi editleyip izinsiz satışa sunulamaz.
     Proje ile ilgili bütün haklar By& Ebubekir Bastama'ya aittir. 
 # Nuget Kurulum Adresi
-    https://www.nuget.org/packages/Ebubekir.Bastama/1.0.0
+   https://www.nuget.org/packages/EbubekirBastama.SQlİslemleri/1.0.0
 # Kurulumu
-    Projeniz'de nuget manager'ı açın ve arama bölümüne "ebubekirbastama" yazın ve ilgili paketi kurun.
+    Projeniz'de nuget manager'ı açın ve arama bölümüne "EbubekirBastama.SQlİslemleri" yazın ve ilgili paketi kurun.
       ----- Package Manager Console Kurulumu ----
-     Install-Package Ebubekir.Bastama -Version 1.0.0
+    Install-Package EbubekirBastama.SQlİslemleri -Version 1.0.0
 # Kullanımı
  
     
